@@ -1,0 +1,10 @@
+.career-goal__container {
+  display: flex;
+  flex-direction: column;
+  padding: 32px 40px;
+}
+
+.career-goal__column-header {
+  justify-content: center;
+  align-items: center;
+}

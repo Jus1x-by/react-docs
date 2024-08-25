@@ -1,0 +1,8 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 32px 24px;
+  border: 1px solid #d0d2d6; /* TOOD: color */
+  border-radius: 6px;
+}

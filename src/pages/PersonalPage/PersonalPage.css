@@ -1,0 +1,12 @@
+.personal-page {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.pesonal-page__container {
+  display: flex;
+  flex-direction: column;
+}

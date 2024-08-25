@@ -1,0 +1,33 @@
+.documents-main__item__name {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.5;
+  img {
+    margin-right: 16px;
+  }
+}
+
+.documents-main__item--center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.documents-main__item__controls-button {
+  width: 24px;
+  height: 24px;
+}
+
+.documents-main__item__controls-image {
+  width: 4px !important;
+  height: 18px !important;
+}
+
+.documents-main__date {
+  font-size: 14px;
+  line-height: 1.5;
+  color: #151f32;
+}

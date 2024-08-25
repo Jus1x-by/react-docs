@@ -1,0 +1,26 @@
+.user-manage {
+  padding: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.user-manage__icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 24px !important;
+  height: 24px !important;
+}
+
+.user-manage__user__icon__img {
+  border-radius: 50%;
+  width: 100%;
+  height: 100%;
+}
+
+.user-manage__name {
+  font-size: 14px;
+  line-height: 1.5;
+  margin: 0 8px;
+}

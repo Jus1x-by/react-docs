@@ -1,0 +1,5 @@
+.documents-main__item__container {
+  height: 64px;
+  padding: 0 16px;
+  border-bottom: 1px solid #d0d2d6; /* TOOD: color */
+}
